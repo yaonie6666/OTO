@@ -21,9 +21,14 @@
 - 查看当前系统版本
 - 查看当前版本是不是最新版本
 - 检测是否有新版本
+- ![]https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_15653-Screenshot_2016-12-28-10-18-50293635875.png
 - 查看新版本的新功能
+- ![]https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_15653-Screenshot_2016-12-28-10-18-57906777015.png
 - 下载系统新版本
+_ ![]https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_15653-Screenshot_2016-12-28-10-19-18-1462869611.png
 - 断点续传功能
 - 切换内外网下载功能
+- ![]https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_15653-Screenshot_2016-12-28-10-35-131574476588.png
+- ![]https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_15653-Screenshot_2016-12-28-10-38-31-1032758385.png
 - 生成文件写入版本号，服务器收到完成升级
 - 升级版本，使用新版本系统
